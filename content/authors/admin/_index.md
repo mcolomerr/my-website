@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mariona Colomer-Rosell is a PhD Fellow at the Biozentrum (University of Basel). Her research interests include developmental biology, bioinformatics, microscopy and gene regulation. Mariona is a physics graduate interested in solving biological questions to understand how complexity arises in life sciences. She is also fond of scientific outreach and communication.
 {style="text-align: justify;"}
