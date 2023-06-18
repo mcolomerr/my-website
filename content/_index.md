@@ -63,7 +63,7 @@ sections:
         - title: Master thesis
           company: Donato lab, Biozentrum
           company_url: ''
-          company_logo: org-x
+          company_logo: biozentrum
           location: Basel, CH
           date_start: '2022-05-09'
           date_end: '2022-12-01'
@@ -71,7 +71,7 @@ sections:
         - title: Master thesis
           company: Donato lab, Biozentrum
           company_url: ''
-          company_logo: org-x
+          company_logo: biozentrum
           location: Basel, CH
           date_start: '2022-05-09'
           date_end: '2022-12-01'
@@ -79,7 +79,7 @@ sections:
         - title: Master rotation
           company: Treutlein lab, ETH Zurich
           company_url: ''
-          company_logo: org-x
+          company_logo: eth
           location: Basel, CH
           date_start: '2022-05-09'
           date_end: '2022-02-01'
@@ -87,7 +87,7 @@ sections:
         - title: Master rotation
           company: Müller lab, ETH Zurich
           company_url: ''
-          company_logo: org-x
+          company_logo: eth
           location: Basel, CH
           date_start: '2022-10-01'
           date_end: '2022-01-01'
@@ -95,7 +95,7 @@ sections:
         - title: Undergraduate researcher
           company: Wieser lab, ICFO
           company_url: ''
-          company_logo: org-x
+          company_logo: icfo
           location: Barcelona, ES
           date_start: '2018-06-01'
           date_end: '2020-07-01'
@@ -103,7 +103,7 @@ sections:
         - title: Summer research student
           company: Manley lab, EPFL
           company_url: ''
-          company_logo: org-x
+          company_logo: epfl
           location: Lausanne, CH
           date_start: '2019-07-01'
           date_end: '2019-08-01'
