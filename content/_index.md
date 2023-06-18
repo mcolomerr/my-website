@@ -78,22 +78,22 @@ sections:
           date_end: '2022-12-01'
           description: Master thesis project at Prof. Donato's lab in brain-machine interfaces on rodents using 2-photon imaging.
         - title: Master rotation
-          company: Treutlein lab, Biozentrum
+          company: Treutlein lab, ETH Zurich
           company_url: ''
           company_logo: org-x
           location: Basel, CH
           date_start: '2022-05-09'
           date_end: '2022-02-01'
-          description: 2-months research project in Prof. Treutlein's lab characterising cerebral organoids through image analysis.
-            - title: Master rotation
-          company: Treutlein lab, Biozentrum
+          description: research project in Prof. Treutlein's lab characterizing cerebral organoids through image analysis.
+        - title: Master rotation
+          company: Müller lab, ETH Zurich
           company_url: ''
           company_logo: org-x
           location: Basel, CH
           date_start: '2022-10-01'
           date_end: '2022-01-01'
           description: 3-months research project at the Department of Biosystems Science and Engineering in Prof. D.J. Müller's biophysics group where I used atomic force microscopy to study cell adhesion.
-     - title: Undergraduate researcher
+         - title: Undergraduate researcher
           company: Wieser lab, ICFO
           company_url: ''
           company_logo: org-x
