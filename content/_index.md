@@ -92,7 +92,7 @@ sections:
           date_start: '2022-10-01'
           date_end: '2022-01-01'
           description: research project at the Department of Biosystems Science and Engineering in Prof. D.J. Müller's biophysics group where I used atomic force microscopy to study cell adhesion.
-         - title: Undergraduate researcher
+        - title: Undergraduate researcher
           company: Wieser lab, ICFO
           company_url: ''
           company_logo: org-x
@@ -100,7 +100,7 @@ sections:
           date_start: '2018-06-01'
           date_end: '2020-07-01'
           description: Undergraduate researcher at Dr. Wieser and Dr. Ruprecht labs working on cell migration.
-         - title: Summer research student
+        - title: Summer research student
           company: Manley lab, EPFL
           company_url: ''
           company_logo: org-x
