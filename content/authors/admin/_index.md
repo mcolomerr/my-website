@@ -35,13 +35,13 @@ education:
   courses:
     - course: PhD in Developmental Biology
       institution: Stanford University
-      year: 2023-present
+      year: present
     - course: MSc in Computational Biology & Bioinformatics
       institution: ETH Zurich
-      year: 2020-2022
+      year: 2022
     - course: BSc in Physics
       institution: University of Barcelona
-      year: 2016-2020
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,19 +53,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/mcolomerr
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=laBvJ0AAAAAJ&hl=es
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mcolomerr
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/m-colomer-rosell
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
