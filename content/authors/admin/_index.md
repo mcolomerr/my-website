@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Mariona Colomer-Rosell is a PhD Fellow at the Biozentrum (University of Basel). Her research interests include developmental biology, bioinformatics, microscopy and gene regulation. Mariona is a physics graduate interested in solving biological questions to understand how complexity arises in life sciences. She is also fond of scientific outreach and communication.
+I am a PhD Fellow at the Biozentrum (University of Basel) under the supervision of Prof. Schier. How cells rearrange to create a living embryo? How can cognitive processes arise from the interaction of individual neurons? I am a physics graduate interested in solving biological questions to understand how complexity arises in life sciences. During my previous lab experiences at ICFO and EPFL I discovered the world of microscopy from different perspectives. After graduating from Physics at the Universitat de Barcelona, I became a Computational Biology and Bioinformatics master's student at ETH Zürich to learn computational tools to study life sciences and I did my Master's Thesis in brain-machine interfaces at the Biozentrum. I am also fond of outreach and scientific education as I like to inspire younger students to discover the scientific world and make them curious about the world that surrounds us.
 {style="text-align: justify;"}
