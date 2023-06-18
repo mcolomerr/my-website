@@ -39,7 +39,7 @@ sections:
         - title: PhD student
           company: Schier lab, Biozentrum
           company_url: ''
-          company_logo: org-gc
+          company_logo: biozentrum
           location: Basel, CH
           date_start: '2023-06-02'
           date_end: ''
@@ -47,27 +47,19 @@ sections:
         - title: PhD rotation
           company: van Nimwegen lab, Biozentrum
           company_url: ''
-          company_logo: org-gc
+          company_logo: biozentrum
           location: Basel, CH
           date_start: '2023-03-15'
           date_end: '2023-06-02'
-          description: PhD rotation at Prof. van Nimwegen's lab investigating promoter-enhancer interactoins.
+          description: PhD rotation at Prof. van Nimwegen's lab investigating promoter-enhancer interactions.
         - title: PhD rotation
           company: Schier lab, Biozentrum
           company_url: ''
-          company_logo: org-gc
+          company_logo: biozentrum
           location: Basel, CH
           date_start: '2023-01-15'
           date_end: '2023-03-15'
           description: Graduate student in developmental biology at Prof. Schier's lab studying gene regulatory networks of early zebrafish embryogenesis.
-        - title: Master thesis
-          company: Donato lab, Biozentrum
-          company_url: ''
-          company_logo: biozentrum
-          location: Basel, CH
-          date_start: '2022-05-09'
-          date_end: '2022-12-01'
-          description: Master thesis project at Prof. Donato's lab in brain-machine interfaces on rodents using 2-photon imaging.
         - title: Master thesis
           company: Donato lab, Biozentrum
           company_url: ''
